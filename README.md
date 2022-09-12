@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ### Talks
 
-| Date           | Event                                                                                        | Title                                    | Links                                                         |
-| -------------- | -------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------- |
-| September 2022 | [CDF Mini-summit (Open Source Summit EU)](https://cd.foundation/cd-mini-summit-2022-dublin/) | Keyless Signing with Tekton and Sigstore | [Slides](./static/Keyless Signing with Tekton and Sigstore.pdf) |
+| Date           | Event                                                                                           | Title                                    | Links                                          |
+| -------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------- | ---------------------------------------------- |
+| September 2022 | [CDF Mini-summit<br>(Open Source Summit EU)](https://cd.foundation/cd-mini-summit-2022-dublin/) | Keyless Signing with Tekton and Sigstore | [Slides](./static/keyless-tekton-sigstore.pdf) |
