@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **wlynch/wlynch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Talks
+
+| Date           | Event                                                                                        | Title                                    | Links                                                         |
+| -------------- | -------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------- |
+| September 2022 | [CDF Mini-summit (Open Source Summit EU)](https://cd.foundation/cd-mini-summit-2022-dublin/) | Keyless Signing with Tekton and Sigstore | [Slides](./static/Keyless Signing with Tekton and Sigstore.pdf) |
