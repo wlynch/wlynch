@@ -25,6 +25,10 @@ Google including Cloud Build, Google Code, and Cloud Source Repositories.
 
 ## Talks
 
-| Date           | Title                                    | Event                                                                                           | Links                                          |
-| -------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| September 2022 | Keyless Signing with Tekton and Sigstore | [CDF Mini-summit<br>(Open Source Summit EU)](https://cd.foundation/cd-mini-summit-2022-dublin/) | [Slides](./static/keyless-tekton-sigstore.pdf) |
+| Date           | Title                                                                      | Event                                                                                           | Links                                                                                       |
+| -------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| September 2022 | Keyless Signing with Tekton and Sigstore                                   | CDF Mini-summit @ Open Source Summit EU | [Slides](./static/keyless-tekton-sigstore.pdf) |
+| September 2022 | Gitsign - Keyless Git Commit Signing | Supply Chain Security Con @ Open Source Summit EU | [Recording](https://youtu.be/tvJeOGYWDko)
+| October 2022   | Source Attestations with Gitsign                                           | Cloud Native Security Con NA 2022                                                               | [Recording](https://youtu.be/C5LkGK4W590)                                                   |
+| February 2023  | Lightning Talk: Securing Your Source Repositories - 5 Tips to Get Started! | Cloud Native Security Con NA 2023                                                               | [Recording](https://youtu.be/nE9TIKYhfUg)                                                   |
+| May 2023       | Identity-based Source Integrity with Gitsign                               | cdCon + GitOps Con NA 2023                                                                      | [Recording](https://youtu.be/DH6w2GmvkE8)                                                   |
